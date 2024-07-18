@@ -3,6 +3,12 @@
 
 
 # Ebook Gerado por I.A.s
+
+
+# 📖 [Ler ebook](https://github.com/Dayanebiaerafa/Ebook-IA/blob/main/Seletores%20Python.pdf)
+### Seguem a baixo as ferramentas que usei para gerar o ebook.
+
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
